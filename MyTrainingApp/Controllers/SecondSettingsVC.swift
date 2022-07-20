@@ -1,13 +1,14 @@
 //
-//  ViewController.swift
+//  SecondSettingsVC.swift
 //  MyTrainingApp
 //
-//  Created by Ilya on 13.06.22.
+//  Created by Ilya on 20.06.22.
 //
 
+import Foundation
 import UIKit
 
-class ViewController: UIViewController {
+class SecondSettingsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
